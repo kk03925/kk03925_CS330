@@ -1,0 +1,66 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CA_Labs\Lab01\design\Exercise
+T_opt
+VO>MlbPF5cS6M;zXL_`0153
+04 20 4 work ripple_carry_counter fast 0
+=1-989096d5d9b7-5c4b0974-d1-2650
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;6.5c;42
+vD_FF
+V09X<if:HdmG9AJoa7S_:O1
+r1
+!s85 0
+31
+IDAmNo?U0NdmokQASNCE512
+w1548422993
+8D_FF.v
+FD_FF.v
+L0 1
+Z1 OE;L;6.5c;42
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@d_@f@f
+!s100 HWd03R2LRN4b>lHGI>EoQ1
+vripple_carry_counter
+VMlQOi<<WTWmgfaW<`91Ug1
+r1
+31
+I78Q1<cRmVWCMZC4WVzXlk0
+w1548421434
+8ripple_carry_counter.v
+Fripple_carry_counter.v
+L0 1
+R1
+R2
+!s85 0
+!s100 4S3ZYU?fI;djC<`<Ra;2j3
+vT_FF
+VI0hBGJMVeod?CcSBJmEeo0
+r1
+31
+ICHa@Z2Jgl1]Gb=YQ9k_Z62
+w1548418898
+8T_FF.v
+FT_FF.v
+L0 1
+R1
+R2
+n@t_@f@f
+!s85 0
+!s100 eaMz5N_EUL<>DRfK8kY<^3
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+IR7NNc[6HUj74k?EgKlJ:l3
+w1548421416
+8tb.v
+Ftb.v
+L0 1
+R1
+R2
+!s85 0
+!s100 AZHQG<^;>BPeIK]E0]=QH2
