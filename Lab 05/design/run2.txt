@@ -1,0 +1,12 @@
+vlog ALU_1_bit.v tb2.v top.v
+vsim -novopt work.tb2
+view wave
+#add wave sim:/tb2/*
+add wave \
+{sim:/tb2/a } \
+{sim:/tb2/b } \
+{sim:/tb2/CarryIn } \
+{sim:/tb2/ALUop } \
+{sim:/tb2/Result } \
+{sim:/tb2/CarryOut } 
+run 300ns

@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Semester(4)/Computer Architecture/Labs/Lab 05/design
+vALU_1_bit
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 E_WcaG7hEcOH5aFOcYLZQ1
+IHhC?Z]:3X::JRbFzXMlRl1
+R0
+w1551636240
+8ALU_1_bit.v
+FALU_1_bit.v
+L0 1
+Z2 OL;L;10.5;63
+Z3 !s108 1551638005.000000
+Z4 !s107 ALU_1_bit.v|tb.v|
+Z5 !s90 -reportprogress|300|tb.v|ALU_1_bit.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+n@a@l@u_1_bit
+vtb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 z]Y=n];^b5R5:Rcb?TVCa1
+IDTMHAVKV<bOfbhWE2L;CZ1
+R0
+w1551637223
+8tb.v
+Ftb.v
+L0 1
+R2
+R3
+R4
+R5
+!i113 0
+R6
+R7
