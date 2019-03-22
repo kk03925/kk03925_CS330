@@ -1,7 +1,7 @@
 module Control_Unit
 (
-	input [0:6] Opcode,
-	output reg [0:1] ALUOp,
+	input [6:0] Opcode,
+	output reg [1:0] ALUOp,
 	output reg Branch, MemRead, MemtoReg, MemWrite, ALUSrc, RegWrite
 );
 

@@ -2,27 +2,29 @@ m255
 K3
 13
 cModel Technology
-Z0 dC:\CA_Labs\Lab08\design
+dC:\CA_Labs\Lab08\design
 vALU_Control
-V^XUjV[l<98j4KL24NEY<R3
+VJKiN[HX;K^A85inePJhil1
 r1
 !s85 0
 31
-I2BKhBOSik@hgm4iA[g<YJ1
-w1553257414
+IgmmF[n2M[]bna0Jf:kN:I2
+Z0 dC:\CA_Labs\Lab08-Copy\design
+w1553258632
 8ALU_Control.v
 FALU_Control.v
 L0 1
 Z1 OE;L;6.5c;42
 Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
 n@a@l@u_@control
-!s100 c@d;Mi50;X?BP3[00Y6771
+!s100 eiaH`UBzFM3nljg:b6z:J2
 vControl_Unit
-VaEJO?[W?GXP[Lio[03R_l3
+VXDh9fNLPdOR`72_;<hh:G2
 r1
 31
-IgeiP>ifEo5f=S1n5^Tl4>3
-w1553255947
+IP^JSMZNmERCz?BP8EfeBc3
+Z3 dC:\CA_Labs\Lab08-Copy\design
+w1553258645
 8Control_Unit.v
 FControl_Unit.v
 L0 1
@@ -30,30 +32,32 @@ R1
 R2
 n@control_@unit
 !s85 0
-!s100 aW1Nl:o@;X1=F;Xe=k^j03
+!s100 c7ij795b29]fLm40jfPKN1
 vtb
 VV@Xn<HnSRM[I5c1?BH]3a3
 r1
 31
-IF4<hl1dN[3_7TLMgbzB3L2
-w1553257553
+Ia5lz1@Q`PV4U>gVaH[S`Q3
+R3
+w1553258664
 8tb.v
 Ftb.v
 L0 1
 R1
 R2
 !s85 0
-!s100 >MEbS1kO=9ZO`z=@5U7Pg3
+!s100 B_bj2Idcz7Lk<?k^H[Q<S3
 vtop_control
-VHJn324XS1G81ahbJ2CmZE0
+V3f2DB^V7X[o1e;cB4gPOL3
 r1
 31
-ISR>K18@>;mH_;BEb8oBC?1
-w1553255118
+I^ZI6PaAVWVTmPAd:D<=[P3
+R3
+w1553258684
 8top_control.v
 Ftop_control.v
 L0 1
 R1
 R2
 !s85 0
-!s100 `bTK:EN^bUBa^2GL=;`e73
+!s100 Ym<F1V^6K:Hc@hd1ecBC32

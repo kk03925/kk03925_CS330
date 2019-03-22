@@ -5,10 +5,10 @@ module tb
 
 
 );
-	reg [0:6] Opcode;
-	reg [0:3] Funct;
+	reg [6:0] Opcode;
+	reg [3:0] Funct;
 	wire Branch, MemRead, MemtoReg, MemWrite, ALUSrc, RegWrite;
-	wire [0:3] Operation;
+	wire [3:0] Operation;
 
 	top_control tc
 	(

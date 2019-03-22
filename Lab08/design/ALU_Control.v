@@ -1,8 +1,8 @@
 module ALU_Control
 (
-	input [0:1] ALUOp,
-	input [0:3] Funct,
-	output reg [0:3] Operation
+	input [1:0] ALUOp,
+	input [3:0] Funct,
+	output reg [3:0] Operation
 );
 
 	always@(ALUOp or Funct)
