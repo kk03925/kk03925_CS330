@@ -1,0 +1,53 @@
+module Control_Unit
+(
+	input [0:6] Opcode,
+	output reg [0:1] ALUOp,
+	output reg Branch, MemRead, MemtoReg, MemWrite, ALUSrc, RegWrite
+);
+
+	always@(Opcode)
+	begin
+		if (Opcode == 7'b0110011)
+		begin 
+			ALUSrc = 1'b0;
+			MemtoReg = 1'b0;
+			RegWrite = 1'b1;
+			MemRead = 1'b0;
+			MemWrite = 1'b0;
+			Branch = 1'b0;
+			ALUOp = 2'b10;
+		end
+		else if (Opcode == 7'b0000011)
+		begin 
+			ALUSrc = 1'b1;
+			MemtoReg = 1'b1;
+			RegWrite = 1'b1;
+			MemRead = 1'b1;
+			MemWrite = 1'b0;
+			Branch = 1'b0;
+			ALUOp = 2'b00;
+
+		end
+		else if (Opcode == 7'b0100011)
+		begin 
+			ALUSrc = 1'b1;
+			MemtoReg = 1'b0;
+			RegWrite = 1'b0;
+			MemRead = 1'b0;
+			MemWrite = 1'b1;
+			Branch = 1'b0;
+			ALUOp = 2'b00;
+
+		end
+		else if (Opcode == 7'b1100011)
+		begin
+			ALUSrc = 1'b0;
+			MemtoReg = 1'b0;
+			RegWrite = 1'b0;
+			MemRead = 1'b0;
+			MemWrite = 1'b0;
+			Branch = 1'b1;
+			ALUOp = 2'b01;		
+		end
+	end
+endmodule

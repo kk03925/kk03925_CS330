@@ -1,0 +1,14 @@
+library verilog;
+use verilog.vl_types.all;
+entity Control_Unit is
+    port(
+        Opcode          : in     vl_logic_vector(0 to 6);
+        ALUOp           : out    vl_logic_vector(0 to 1);
+        Branch          : out    vl_logic;
+        MemRead         : out    vl_logic;
+        MemtoReg        : out    vl_logic;
+        MemWrite        : out    vl_logic;
+        ALUSrc          : out    vl_logic;
+        RegWrite        : out    vl_logic
+    );
+end Control_Unit;

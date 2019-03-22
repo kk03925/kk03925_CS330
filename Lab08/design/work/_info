@@ -1,0 +1,59 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CA_Labs\Lab08\design
+vALU_Control
+V^XUjV[l<98j4KL24NEY<R3
+r1
+!s85 0
+31
+I2BKhBOSik@hgm4iA[g<YJ1
+w1553257414
+8ALU_Control.v
+FALU_Control.v
+L0 1
+Z1 OE;L;6.5c;42
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@a@l@u_@control
+!s100 c@d;Mi50;X?BP3[00Y6771
+vControl_Unit
+VaEJO?[W?GXP[Lio[03R_l3
+r1
+31
+IgeiP>ifEo5f=S1n5^Tl4>3
+w1553255947
+8Control_Unit.v
+FControl_Unit.v
+L0 1
+R1
+R2
+n@control_@unit
+!s85 0
+!s100 aW1Nl:o@;X1=F;Xe=k^j03
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+IF4<hl1dN[3_7TLMgbzB3L2
+w1553257553
+8tb.v
+Ftb.v
+L0 1
+R1
+R2
+!s85 0
+!s100 >MEbS1kO=9ZO`z=@5U7Pg3
+vtop_control
+VHJn324XS1G81ahbJ2CmZE0
+r1
+31
+ISR>K18@>;mH_;BEb8oBC?1
+w1553255118
+8top_control.v
+Ftop_control.v
+L0 1
+R1
+R2
+!s85 0
+!s100 `bTK:EN^bUBa^2GL=;`e73
