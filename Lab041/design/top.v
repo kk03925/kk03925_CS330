@@ -1,0 +1,40 @@
+module top
+(
+	input [31:0] instruction,
+	output [63:0] ReadData1,
+	output [63:0] ReadData2
+);
+
+	wire [4:0] rs1;
+	wire [4:0] rs2;
+	wire [4:0] rd;
+	wire [6:0] opcode;
+	wire [2:0] funct3;
+	wire [6:0] funct7;
+	reg [63:0] WriteData;
+	reg RegWrite, clk, reset;
+	
+	parser p1
+	(
+		.instruction(instruction),
+		.opcode(opcode),
+		.funct3(funct3),
+		.funct7(funct7),
+		.rs1(rs1),
+		.rs2(rs2),
+		.rd(rd)
+	);
+	
+	registerFile r1
+	(
+		.RS1(rs1),
+		.RS2(rs2),
+		.RD(rd),
+		.WriteData(WriteData),
+		.RegWrite(RegWrite),
+		.clk(clk),
+		.reset(reset),
+		.ReadData1(ReadData1),
+		.ReadData2(ReadData2)
+	);
+endmodule

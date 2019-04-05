@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\kk03925\Desktop\Lab04\design
+vparser
+VXNoABRDSeRX>VacSJ@>BY3
+r1
+31
+Ing3l_@NnUH:R4OMA>JGL50
+Z1 dC:\Users\kk03925\Desktop\Lab041\design
+Z2 w1554316346
+8instruction.v
+Finstruction.v
+L0 1
+Z3 OE;L;6.5c;42
+Z4 o-L mtiAvm -L mtiOvm -L mtiUPF
+!s85 0
+!s100 7?VS:<GKBO6kNE8?S7ec03
+vregisterFile
+VK142flZ]YG9k^7lKFoif^0
+r1
+!s85 0
+31
+I7?5lA5]`JoW]R2TbRkZ[10
+R1
+R2
+8registerFile.v
+FregisterFile.v
+L0 1
+R3
+R4
+nregister@file
+!s100 kPZkNHD[jX5@B6NA3HBD43
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+Ie0B693^jRN_:4?JMD0TD01
+w1554359216
+8tb.v
+Ftb.v
+L0 1
+R3
+R4
+!s85 0
+!s100 PPULbm4OWU43J0L]JR?=N3
+vtb2
+VSF1BmRWJnEIkY8K83bYAd3
+r1
+31
+Ik_P=aaECW]TmUILzZ<G352
+R1
+w1554449596
+8tb2.v
+Ftb2.v
+L0 1
+R3
+R4
+!s85 0
+!s100 TzC0TFI3dj]Xdgb2^_i>T3
+vtop
+VaHRm8VRSXCX2<E8hRGJWo1
+r1
+31
+ILHFBcZicC4eh6KR6Y`D:[2
+R1
+w1554449716
+8top.v
+Ftop.v
+L0 1
+R3
+R4
+!s85 0
+!s100 G^B:S1O`fF<_0G@9EAO2i0
